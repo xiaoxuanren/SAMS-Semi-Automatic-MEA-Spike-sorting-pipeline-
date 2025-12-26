@@ -40,6 +40,8 @@ A MATLAB-based pipeline for semi-automatic spike sorting and network burst analy
 5. Review (and manually curate results in manual sorting app as needed)
 6. Export results
 
+See [SAMS_User_Manual.docx](docs/SAMS_User_Manual.docx) for details.
+
 ## Project Structure
 
 ```
