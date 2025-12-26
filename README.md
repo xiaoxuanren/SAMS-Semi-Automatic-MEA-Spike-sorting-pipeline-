@@ -63,8 +63,7 @@ SAMS/
 
 ## Documentation
 
-See the `docs/` folder for:
-- `SAMS_User_Manual.docx` - Comprehensive user guide
+- [SAMS_User_Manual.docx](docs/SAMS_User_Manual.docx) - Comprehensive user guide
 
 ## Third-Party Components
 
