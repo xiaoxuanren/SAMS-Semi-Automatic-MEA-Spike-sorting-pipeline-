@@ -33,16 +33,12 @@ A MATLAB-based pipeline for semi-automatic spike sorting and network burst analy
 
 ### Quick Start
 
-1. Launch the application (GUI or command line)
-2. Load your `.spk` file (Axion BioSystems format)
-3. Select wells and electrodes to process
+1. Launch the automatic sorting application (GUI)
+2. Select folder that contains `.spk` files (Axion BioSystems format)
+3. (Optional) Select wells to process (default: all wells)
 4. Run automatic sorting
-5. Review and manually curate results as needed
+5. Review (and manually curate results in manual sorting app as needed)
 6. Export results
-
-### Input Data
-
-This pipeline is designed to work with spike files (`.spk`) from Axion BioSystems MEA platforms.
 
 ## Project Structure
 
