@@ -104,11 +104,9 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for full details.
 
 Xiaoxuan Ren, Carissa L. Sirois, Raymond Doudlah, Ethan Dayley, Natasha M. Mendez-Albelo, Aviad Hai, Ari Rosenberg, Xinyu Zhao
 
-Zhao Lab, University of Wisconsin-Madison
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
@@ -116,10 +114,6 @@ If you use this software in your research, please cite:
 
 > Ren X, Sirois CL, Doudlah R, Mendez-Albelo NM, Hai A, Rosenberg A, Zhao X. (2025). A Semi-Automated MEA Spike sorting (SAMS) method for high throughput assessment of cultured neurons. *bioRxiv*. DOI: [10.1101/2025.02.08.637245](https://doi.org/10.1101/2025.02.08.637245)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Support
 
-For questions or issues, please open an issue on GitHub.
+For questions or issues, please contact xinyu.zhao@wisc.edu
